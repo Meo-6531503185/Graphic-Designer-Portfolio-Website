@@ -1,6 +1,3 @@
 Project
-=============
-Please use this template for your project.
-
-List your group's member's below with ID and name.
+My very own Portfolio Website to showcase my Graphic Designing Skills and Coding skills.
 
